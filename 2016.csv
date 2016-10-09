@@ -55,7 +55,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,
 2,54,MIN,Mackensie Alexander,CB,22,2016,0,0,0,0,0,4,,,,,,,,,,,,,,,Clemson
 2,55,CIN,Tyler Boyd,WR,21,2016,0,0,0,0,0,4,,,,,,,,,12,130,0,,,,Pittsburgh
 2,56,CHI,Cody Whitehair,G,24,2016,0,0,0,0,0,4,,,,,,,,,,,,,,,Kansas St.
-2,57,IND,T.J. Green\GreeT.00,FS,21,2016,0,0,0,0,0,3,,,,,,,,,,,,5,,,Clemson
+2,57,IND,T.J. Green,FS,21,2016,0,0,0,0,0,3,,,,,,,,,,,,5,,,Clemson
 2,58,PIT,Sean Davis,CB,,2016,0,0,0,0,0,4,,,,,,,,,,,,10,,,Maryland
 2,59,TAM,Roberto Aguayo,K,22,2016,0,0,0,0,0,4,,,,,,,,,,,,,,,Florida St.
 2,60,NWE,Cyrus Jones,CB,22,2016,0,0,0,0,0,4,,,,,,,,,,,,1,,,Alabama
@@ -88,7 +88,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,
 3,87,CIN,Nick Vigil,ILB,23,2016,0,0,0,0,0,4,,,,,,,,,,,,,,,Utah St.
 3,88,GNB,Kyler Fackrell,OLB,24,2016,0,0,0,0,0,3,,,,,,,,,,,,2,,1.0,Utah St.
 3,89,PIT,Javon Hargrave,DT,23,2016,0,0,0,0,0,4,,,,,,,,,,,,2,,,South Carolina St.
-3,90,SEA,C.J. Prosise\ProsC.00,RB,22,2016,0,0,0,0,0,1,,,,,,1,-2,0,1,13,0,,,,Notre Dame
+3,90,SEA,C.J. Prosise,RB,22,2016,0,0,0,0,0,1,,,,,,1,-2,0,1,13,0,,,,Notre Dame
 3,91,NWE,Jacoby Brissett,QB,23,2016,0,0,0,0,0,3,34,55,400,0,0,16,83,1,,,,,,,North Carolina St.
 3,92,ARI,Brandon Williams,CB,24,2016,0,0,0,0,0,4,,,,,,,,,,,,4,,,Texas A&M
 3,93,CLE,Cody Kessler,QB,23,2016,0,0,0,0,0,2,49,73,467,1,1,4,1,0,,,,,,,USC
@@ -107,7 +107,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,
 4,106,KAN,Eric Murray,CB,22,2016,0,0,0,0,0,4,,,,,,,,,,,,,,,Minnesota
 4,107,BAL,Chris Moore,WR,23,2016,0,0,0,0,0,4,,,,,,,,,4,30,0,,,,Cincinnati
 4,108,TAM,Ryan Smith,CB,23,2016,0,0,0,0,0,2,,,,,,,,,,,,,,,North Carolina Central
-4,109,NYG,B.J. Goodson\GoodB.00,OLB,23,2016,0,0,0,0,0,3,,,,,,,,,,,,,,,Clemson
+4,109,NYG,B.J. Goodson,OLB,23,2016,0,0,0,0,0,3,,,,,,,,,,,,,,,Clemson
 4,110,LAR,Tyler Higbee,TE,23,2016,0,0,0,0,0,4,,,,,,,,,1,2,0,,,,West. Kentucky
 4,111,DET,Miles Killebrew,SS,23,2016,0,0,0,0,0,4,,,,,,,,,,,,1,,,Southern Utah
 4,112,NWE,Malcolm Mitchell,WR,24,2016,0,0,0,0,0,4,,,,,,,,,4,75,0,,,,Georgia
@@ -157,14 +157,14 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,
 5,156,BUF,Jonathan Williams,RB,22,2016,0,0,0,0,0,1,,,,,,3,2,0,,,,,,,Arkansas
 5,157,TEN,LeShaun Sims,CB,,2016,0,0,0,0,0,1,,,,,,,,,,,,,,,Southern Utah
 5,158,NYJ,Brandon Shell,T,24,,0,0,0,,,,,,,,,,,,,,,,,,South Carolina
-5,159,HOU,K.J. Dillon\DillK.00,S,23,2016,0,0,0,0,0,3,,,,,,,,,,,,,,,West Virginia
+5,159,HOU,K.J. Dillon,S,23,2016,0,0,0,0,0,3,,,,,,,,,,,,,,,West Virginia
 5,160,MIN,Kentrell Brothers,OLB,23,,0,0,0,,,,,,,,,,,,,,,,,,Missouri
 5,161,CIN,Christian Westerman,G,23,,0,0,0,,,,,,,,,,,,,,,,,,Arizona St.
 5,162,KAN,Kevin Hogan,QB,23,,0,0,0,,,,,,,,,,,,,,,,,,Stanford
 5,163,GNB,Trevor Davis,WR,23,2016,0,0,0,0,0,2,,,,,,,,,0,0,0,,,,California
 5,164,PHI,Halapoulivaati Vaitai,T,23,,0,0,0,,,,,,,,,,,,,,,,,,TCU
 5,165,KAN,Tyreek Hill,WR,22,2016,0,0,0,0,0,4,,,,,,3,-6,0,11,67,2,,,,West Alabama
-5,166,HOU,D.J. Reader\ReadD.00,NT,22,2016,0,0,0,0,0,4,,,,,,,,,,,,1,,,Clemson
+5,166,HOU,D.J. Reader,NT,22,2016,0,0,0,0,0,4,,,,,,,,,,,,1,,,Clemson
 5,167,ARI,Marqui Christian,SS,21,2016,0,0,0,0,,1,,,,,,,,,,,,,,,Midwestern St.
 5,168,CLE,Spencer Drango,G,23,2016,0,0,0,0,0,4,,,,,,,,,,,,,,,Baylor
 5,169,DET,Antwione Williams,LB,23,2016,0,0,0,0,0,3,,,,,,,,,,,,3,,,Georgia Southern
@@ -176,7 +176,7 @@ Rnd,Pick,Tm,Player,Pos,Age,To,AP1,PB,St,CarAV,DrAV,G,Cmp,Att,Yds,TD,Int,Att,Yds,
 5,175,SDG,Jatavis Brown,OLB,22,2016,0,0,0,0,0,4,,,,,,,,,,,,17,,1.0,Akron
 6,176,DEN,Andy Janovich,FB,23,2016,0,0,0,0,0,4,,,,,,2,30,1,2,24,0,,,,Nebraska
 6,177,LAR,Temarrick Hemingway,TE,23,2016,0,0,0,0,0,2,,,,,,,,,,,,,,,South Carolina St.
-6,178,KAN,D.J. White\WhitD.00,CB,23,2016,0,0,0,0,0,4,,,,,,,,,,,,2,1,,Georgia Tech
+6,178,KAN,D.J. White,CB,23,2016,0,0,0,0,0,4,,,,,,,,,,,,2,1,,Georgia Tech
 6,179,SDG,Drew Kaser,P,23,2016,0,0,0,0,0,4,,,,,,,,,,,,,,,Texas A&M
 6,180,MIN,Moritz Boehringer,WR,22,,0,0,0,,,,,,,,,,,,,,,,,,
 6,181,JAX,Tyrone Holmes,OLB,23,2016,0,0,0,0,,3,,,,,,,,,,,,,,,Montana
