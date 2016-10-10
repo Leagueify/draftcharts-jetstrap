@@ -1,6 +1,6 @@
 # draftcharts-jetstrap
 
-This is a site that shows draft values for Alma maters, made with Jetstrap and to test Azure's auto-deployment from Github.
+This is a site that shows draft values for Alma maters, initially made with [Jetstrap](https://jetstrap.com/) (an old product from the folks who make the [Ionic Framework](http://ionicframework.com/)) and to test Azure's auto-deployment from Github.
 
 Check out the site at [draftcharts.azurewebsites.net](http://draftcharts.azurewebsites.net).
 
