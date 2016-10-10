@@ -15,108 +15,6 @@
 
   <body>
     <div class="navbar navbar-inverse navbar-fixed-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <a class="navbar-brand" href="#">Draft Charts</a>
-        </div>
-        <div class="navbar-collapse collapse">
-          <ul class="nav navbar-nav">
-            <li class="active">
-              <a href="draftcharts-home.html">Home</a>
-            </li>
-            <li>
-            </li>
-            <li>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Charts<div class="pull-right"><b class="caret"></b></div></a>
-              <ul class="dropdown-menu">
-                <li id="">
-                  <a href="draftresults-top100-2011to2015.html">Top 100 schools of the last 5 years</a>
-                </li>
-                <li>
-                  <a href="draftresults-top100-2006to2015.html">Top 100 schools of the last 10 years</a>
-                </li>
-                <li>
-                  <a href="2017-potential.html">2017 - Preview</a>
-                </li>
-                <li class="divider">
-                </li>
-                <li class="dropdown-header">
-                  Draft History - Top Schools by Year
-                </li>
-                <li>
-                  <a href="2016-draftresults.html">2016</a>
-                </li>
-                <li>
-                  <a href="2015-draftresults.html">2015</a>
-                </li>
-                <li>
-                  <a href="2014-draftresults.html">2014</a>
-                </li>
-                <li>
-                  <a href="2013-draftresults.html">2013</a>
-                </li>
-                <li>
-                  <a href="2012-draftresults.html">2012</a>
-                </li>
-                <li>
-                  <a href="2011-draftresults.html">2011</a>
-                </li>
-                <li>
-                  <a href="2010-draftresults.html">2010</a>
-                </li>
-              </ul>
-            </li>
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Old Charts<div class="pull-right"><b class="caret"></b></div></a>
-              <ul class="dropdown-menu">
-                <li id="">
-                  <a href="draftresults-top100-2009to2014.html">Top 100 schools from 2009 to 2014</a>
-                </li>
-                <li>
-                  <a href="draftresults-allschools-2005to2014.html">Complete review from 2005 to 2014</a>
-                </li>
-                <li>
-                  <a href="2016-potential.html"> A preview of 2016 before the draft</a>
-                </li>
-                <li>
-                  <a href="2015-potential.html">A preview of 2015 before the draft</a>
-                </li>
-                <li class="divider">
-                </li>
-                <li class="dropdown-header">
-                  Draft History - Top 50 Lists Grouped By Leagify Value
-                </li>
-                <li>
-                  <a href="2014-draftresults-top50.html">2014</a>
-                </li>
-                <li>
-                  <a href="2013-draftresults-top50.html">2013</a>
-                </li>
-                <li>
-                  <a href="2012-draftresults-top50.html">2012</a>
-                </li>
-                <li>
-                  <a href="2011-draftresults-top50.html">2011</a>
-                </li>
-                <li>
-                  <a href="2010-draftresults-top50.html">2010</a>
-                </li>
-                <li>
-                  <a href="2009-draftresults-top50.html">2009</a>
-                </li>
-              </ul>
-            </li>
-          </ul>
-        </div>
-        <!--/.navbar-collapse -->
-      </div>
     </div>
     <!-- Main jumbotron for a primary marketing message or call to action
     -->
@@ -196,12 +94,16 @@
       </footer>
     </div>
     <!-- /container -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"
-    >
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js">
     </script>
-    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"
-    >
+    <script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js">
     </script>
+    
+    <!-- Function to add navbar to the page. -->
+    <script> 
+      $(function(){ $(".navbar").prepend().load("navbar.html") });
+    </script> 
+    
   </body>
 
 </html>
